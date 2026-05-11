@@ -1,0 +1,7 @@
+dataset_sintetico_v2_final/
+nsynth-test/
+__pycache__/
+.ipynb_checkpoints/
+*.wav
+*.mp3
+*.sif
