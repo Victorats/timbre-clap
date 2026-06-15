@@ -5,3 +5,19 @@ __pycache__/
 *.wav
 *.mp3
 *.sif
+# Ambientes Virtuais
+env-cnn/
+venv_cuda/
+
+# Datasets e metadados
+*.parquet
+*.csv
+dataset_fase1_blueprints_valid/
+dataset_fase2_valid_elite/
+nsynth-valid/
+
+# Checkpoints de Modelo
+tcc_clap_lora_timbre*/
+
+# Temporários do Jupyter
+.ipynb_checkpoints/
